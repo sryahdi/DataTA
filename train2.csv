@@ -245,9 +245,9 @@ id,Product,Kategori,Tipe,Ukuran,Utilities,Daya,Quality,SaleCondition,SalePrice
 244,RAC,Inverter,dinding,1,AllPub,920,Good,Normal,3600000
 245,RAC,Inverter,dinding,1,AllPub,920,Good,Normal,3600000
 246,WM,T/L,Nonpengering,9,AllPub,280,Good,Normal,2300000
-247WM,T/L,Nonpengering,9,AllPub,280,Good,Normal,2300000
+247,WM,T/L,Nonpengering,9,AllPub,280,Good,Normal,2300000
 248,WM,T/L,Nonpengering,9,AllPub,280,Good,Normal,2300000
-249WM,T/L,Nonpengering,9,AllPub,280,NA,Normal,2300000
+249,WM,T/L,Nonpengering,9,AllPub,280,NA,Normal,2300000
 250,WM,T/L,Nonpengering,9,AllPub,280,Good,Normal,2300000
 251,WM,T/L,Nonpengering,9,AllPub,280,Good,Normal,2300000
 252,WM,T/L,Nonpengering,9,AllPub,280,NA,Normal,2300000
